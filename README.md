@@ -110,6 +110,32 @@ Another project from this phase:
 
 Currently, in my **fourth year**, I am undergoing **BridgeLabz training**, where I am strengthening my backend development and industry-level programming skills.
 
+#### 🎓 I am Confident in: -
+- **Java** → Core programming and OOP principles
+- **Spring Framework** → Building scalable backend services
+- **Microservices Architecture** → Designing distributed systems
+- **RESTful APIs** → Creating robust backend endpoints
+- **Angular & TypeScript** → Modern front-end development
+- **Database Design** → SQL and data persistence
+- **DevOps & Deployment** → Docker, CI/CD pipelines
+
+####  Projects Built During Training
+
+**1. Quantity Measurement App**  
+A full-stack application for precise unit conversion and quantity measurements.
+- **Backend:** [QuantityMeasurementApp](https://github.com/harsh-vardhan36/QuantityMeasurementApp) (Spring Boot, deployed on Render)
+- **Frontend:** [QuantityMeasurementApp-Frontend](https://github.com/harsh-vardhan36/QuantityMeasurementApp-Frontend) (Angular + TypeScript)
+
+**2. 📖 AddressBook App**  
+A comprehensive contact management system with full CRUD operations.
+- **Repository:** [AddressBookApp](https://github.com/harsh-vardhan36/AddressBookApp)
+
+**3. ✍️ InkWell – A Blogging Platform**  
+Think, write, and publish—a complete blogging platform connecting writers and readers.
+- **Backend:** [InkWell](https://github.com/harsh-vardhan36/InkWell) (Java-based microservice)
+- **Frontend:** [InkWell-frontend](https://github.com/harsh-vardhan36/InkWell-frontend) (TypeScript + SCSS)
+
+Each project reinforced industry practices like clean code, API design, testing, and deployment.
 ### Signing Off
 Building Something, when done, will add to the journey.
 
